@@ -1,0 +1,15 @@
+{
+  "name": "bookmyshow",
+  "version": "1.0.0",
+  "description": "![bookmyshow](https://github.com/deevesh11nov/BookmyShow/assets/127090783/9c9d01e5-7dde-4e46-8635-3fe1dd6c453d)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
