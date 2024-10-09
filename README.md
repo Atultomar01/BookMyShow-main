@@ -41,5 +41,7 @@ This project uses the following major libraries and frameworks:
 
 Enjoy using your bookmyshow website!
 
+project link:- https://bookmyshow532.netlify.app
+
 #### Happy Coding!
 
